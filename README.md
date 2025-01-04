@@ -1,2 +1,2 @@
-# CaliforniaHousing
+# Machine Learning Projects
 MachineLearning
