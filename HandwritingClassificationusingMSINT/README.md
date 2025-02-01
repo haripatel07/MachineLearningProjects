@@ -6,7 +6,7 @@ This project focuses on classifying handwritten digits using the **MNIST dataset
 ## Features
 - Uses the **MNIST dataset** for handwritten digit recognition.
 - Implements a **binary classifier** for distinguishing a selected digit.
-- Trains and evaluates a machine learning model.
+- Trains and evaluates **RandomForestClassifier** and Multiclass Classification
 - Includes exploratory data analysis (EDA) for understanding the dataset.
 
 ## Requirements
